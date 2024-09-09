@@ -3,7 +3,7 @@ Let's start off our exploration of Java with a classic programming challenge, Fi
 
 But first, let's get you your own copy of this codebase to work with.
 
-## Task 0 Forking a public repository on GitHub
+## Task 0 Forking a public repository on GitHub - did i do?
 
 You should be currently reading this README on GitHub in the code repository:
 https://github.com/CSC207-2024F-UofT/FizzBuzz/
