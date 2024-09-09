@@ -16,5 +16,7 @@ public class Reduce {
 
         }
         System.out.println(steps);
+        System.out.println("finished again");
+
     }
 }
