@@ -23,5 +23,8 @@ public class Multiples {
         System.out.println("Number of multiples of three:" + three);
         System.out.println("Number of multiples of five:" + five);
 
+        System.out.println("finished");
+
+
     }
 }
