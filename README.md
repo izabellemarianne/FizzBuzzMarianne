@@ -1,4 +1,4 @@
-# CSC207 Week 1 Lab Activity #1: Fizz Buzz - new change at 12:42pm
+# CSC207 Week 1 Lab Activity #1: Fizz Buzz - new change at 12:42pm - another chnage and 12:46pm
 
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
